@@ -5,7 +5,7 @@ bitwise operators overview project</span>
 
 Here is its script:
 
-````javascript
+```javascript
 /*
  * Kind of bitwise operators in JavaScript
  *
@@ -108,7 +108,7 @@ Here is its script:
  *
  */
 
-`````````
+...
 
 function leftBitwiseShiftTest() {
     var i = 8;
@@ -159,3 +159,6 @@ function bitwiseAndTest() {
     var decimalFormat = i + '&' + i2 + ' = ' + (i & i2);
     print(bitwiseFormat + ' -> ' + decimalFormat);
 }
+```
+
+Project published at: https://julia252006.github.io/javascript-bitwise-operators/
